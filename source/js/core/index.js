@@ -1,0 +1,1 @@
+export {default as Canvas2DBase} from './Canvas2DBase.js';
